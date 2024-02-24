@@ -1,8 +1,7 @@
 fastapi
 uvicorn
 pydantic
-scikit-learn
 numpy
-tensorflow
+keras
 opencv-python
 python-multipart
