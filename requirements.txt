@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pydantic
 numpy
-keras
+tensorflow
 opencv-python-headless
 python-multipart
