@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pydantic
 numpy
-tensorflow==1.15.0
+tensorflow
 opencv-python-headless
 python-multipart
