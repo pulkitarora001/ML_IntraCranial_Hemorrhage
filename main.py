@@ -53,6 +53,6 @@ def brain_stroke_pred(brain_ct_image: UploadFile):
     else:
         status = True
 
-    return status
+    return {"Tumor_Present": status}
 
 
