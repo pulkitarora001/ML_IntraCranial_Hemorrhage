@@ -3,5 +3,5 @@ uvicorn
 pydantic
 numpy
 keras
-opencv-python
+opencv-python-headless
 python-multipart
