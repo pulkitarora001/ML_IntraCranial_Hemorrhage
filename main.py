@@ -19,7 +19,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-brain_stroke_model = keras.models.load_model("resnet-weights.hdf5")
+brain_stroke_model = keras.models.load_model("resnet-weights (1).hdf5")
 
 
 @app.post('/brain_stroke_prediction')
